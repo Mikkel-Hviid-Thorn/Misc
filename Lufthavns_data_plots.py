@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue Nov 17 19:56:26 2020
-
 @author: Mikkel Hviid Thorn og Rebekka Engelund Balle
 
 Lufthavnen:

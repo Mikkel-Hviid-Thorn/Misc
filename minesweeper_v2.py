@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon Nov  2 23:39:34 2020
-
 @author: Mikkel Hviid Thorn
 
 Minesweeper
